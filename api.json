@@ -1,0 +1,57 @@
+[{
+        "precio": 85.00,
+        "id": 1,
+        "title": "Ensalada de pera y avellanas",
+        "descrip": "300 g de lechuga, 1 pera, 50 g de frambuesas, 50 g de grosellas, 150 g de avellanas tostadadas, sal, vinagre de manzana y aceite de oliva virgen extra.",
+        "thumbnailUrl": "https://i.blogs.es/17f7f8/pera_avellanas/1366_2000.jpg"
+    },
+    {
+        "precio": 100.00,
+        "id": 2,
+        "title": "Ensalada de pollo asado con escarola y rúcula",
+        "descrip": "1 escarola, restos de pollo asado, 10-12 tomatitos tipo cherry de colores variados, 1/2 granada, 1 cucharada de pipas de calabaza, 1 cucharadita de semillas de amapola, 1 yogur natural.",
+        "thumbnailUrl": "https://i.blogs.es/316f2e/pollo_rucula/1366_2000.jpg"
+    },
+    {
+        "precio": 105.00,
+        "id": 3,
+        "title": "Ensalada de escarola y peras caramelizadas",
+        "descrip": "1 escarola, 2 peras conferencia, 2 cucharadas de azúcar, unas gotas de limón, 1 cucharada de agua, 1 rodaja grande de queso de cabra, 1 copita de vino dulce, aceite, vinagre, sal.",
+        "thumbnailUrl": "https://i.blogs.es/25cb9c/lombarda/1024_2000.jpg"
+    },
+    {
+        "precio": 120.00,
+        "id": 4,
+        "title": "Ensalada de alubias con berros, cherry y ventresca",
+        "descrip": "300 g de alubias, 150 g de ventresca en aceite de oliva, 75 g de tomates cherry, 80 g de berros, 1/2 lima, sal maldon y aceite de oliva virgen extra.",
+        "thumbnailUrl": "https://i.blogs.es/72beaf/escarola/1024_2000.jpg"
+    },
+    {
+        "precio": 115.00,
+        "id": 5,
+        "title": "Ensalada de naranja y fresones",
+        "descrip": "1 naranja de mesa, 8 fresones, 75 gr de mezcla de escarola, 4 rabanitos, queso feta, pipas de girasol peladas, sal, aceite de oliva virgen extra, vinagre de manzana.",
+        "thumbnailUrl": "https://i.blogs.es/866926/naranja_fresas/1366_2000.jpg"
+    },
+    {
+        "precio": 95.00,
+        "id": 6,
+        "title": "Ensalada de brócoli y fruta con pollo a la parrilla",
+        "descrip": "1 brócoli, 1 pechuga de pollo, 50g de arándanos, 100g de mandarina, zumo de limon, tomillo fresco, romero fresco, pimienta negra molida, sal, aceite de oliva virgen.",
+        "thumbnailUrl": "https://i.blogs.es/09003e/brocoli_pollo/1366_2000.jpg"
+    },
+    {
+        "precio": 95.00,
+        "id": 7,
+        "title": "Ensalada griega de espinacas, queso de cabra, naranja y pistachos",
+        "descrip": "1 bolsa de brotes de espinacas, 1 trozo de queso de cabra, 1 naranja jugosa, 20 pistachos, sal, aceite de oliva virgen extra, vinagre de Jerez.",
+        "thumbnailUrl": "https://i.blogs.es/19615b/espinacas_naranja/1366_2000.jpg"
+    },
+    {
+        "precio": 110.00,
+        "id": 8,
+        "title": "Falso tabulé de coliflor",
+        "descrip": "Media coliflor grande, 1 diente de ajo picado, el zumo de un limón, cuarto de taza de aceite de oliva virgen extra, sal, pimienta negra molida, 1 pepino pequeño, perejil fresco picado, menta fresca picada, cilantro fresco picado.",
+        "thumbnailUrl": "https://i.blogs.es/c28e3d/lentejas_langostino/1024_2000.jpg"
+    }
+]

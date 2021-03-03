@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/420/342/small_2x/HealthyFood_07.jpg");
+}
+
+.menu {
+    margin: 2%;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card {
+    margin: 5%;
+}
+
+footer {
+    margin-top: 5%;
+}
+
+.logo {
+    font-family: 'Dancing Script', cursi;
+}
+
+.txth {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.bg {
+    background-color: white !important;
+    margin-top: 2%;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.jumbocss {
+    margin-top: 3%;
+}
+
+.txtq {
+    font-size: 18px;
+}
+
+.txtbutton {
+    color: white;
+}
+
+.txtbutton:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.cardSize {
+    width: 100%;
+}
